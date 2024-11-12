@@ -5,7 +5,7 @@ https://www.newgrounds.com/portal/view/955576
 
 - Led a team consisting of a Pixel Artist, a Musician, and a Contributing Tester, successfully working together full-time on a daily basis for two months to create a product.
 
-- My responsibilities also included GDScript programming, game design, level design, SFX design, and management.
+- My responsibilities also included GDScript programming, game design, level design, SFX design, and management. While all the required skills, aside from management, were new to me, I successfully learned and applied them.
 
 - The project had a self imposed hard deadline which was successfully reached by all team members.
 
