@@ -1,7 +1,10 @@
 # Gnash: The Greedy Goblin
 
-The link for seeing the outcome of the project:
+A link to try out the project:
 https://www.newgrounds.com/portal/view/955576
+
+A video to watch a bit of gameplay:
+https://youtu.be/gUpYy4qKj4U
 
 - Led a team consisting of a Pixel Artist, a Musician, and a Contributing Tester, successfully working together full-time on a daily basis for two months to create a product.
 
@@ -9,5 +12,6 @@ https://www.newgrounds.com/portal/view/955576
 
 - The project had a self imposed hard deadline which was successfully reached by all team members.
 
-If you’re interested in reviewing the code or project structure, please feel free to contact me via email, so that we could arrange a meeting.
+If you’re interested in seeing the games GDScript code or project structure (I am not able to share it publicly due to some sound assets having a specific copyright), please feel free to contact me via email, so that we could arrange a meeting.
 matas.contact@gmail.com
+
