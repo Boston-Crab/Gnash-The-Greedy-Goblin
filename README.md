@@ -3,7 +3,7 @@
 A link to try out the project:
 https://www.newgrounds.com/portal/view/955576
 
-A video to watch a bit of gameplay:
+Gameplay video:
 https://youtu.be/gUpYy4qKj4U
 
 - Led a team consisting of a Pixel Artist, a Musician, and a Contributing Tester, successfully working together full-time on a daily basis for two months to create a product.
